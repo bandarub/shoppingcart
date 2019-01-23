@@ -6,7 +6,7 @@ User can login, signup and having their own purchased history
 
 [Demo verson. Click here!](https://pure-sierra-63060.herokuapp.com/)
 
-#How to run in developement mode
+# How to run in developement mode
   Fork the project
   To run aplication in localhost, in command line type: nodemon start
   open localhost:8081
