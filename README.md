@@ -8,7 +8,7 @@ User can login, signup and having their own purchased history
 
 # How to run in developement mode
   Fork the project
-  To run aplication in localhost, in command line type: nodemon start
+  ## To run aplication in localhost, in command line type: nodemon start
   open localhost:8081
 
 ## Authors
